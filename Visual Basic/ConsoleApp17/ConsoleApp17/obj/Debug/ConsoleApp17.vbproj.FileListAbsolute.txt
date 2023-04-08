@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.xml
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.xml
+C:\Users\amarm\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb

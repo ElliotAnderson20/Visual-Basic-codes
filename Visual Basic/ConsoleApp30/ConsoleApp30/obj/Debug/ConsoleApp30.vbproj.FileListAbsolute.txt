@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.xml
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.xml
+C:\Users\amarm\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb

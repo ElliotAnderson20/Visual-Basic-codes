@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.xml
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.xml
+C:\Users\amarm\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb

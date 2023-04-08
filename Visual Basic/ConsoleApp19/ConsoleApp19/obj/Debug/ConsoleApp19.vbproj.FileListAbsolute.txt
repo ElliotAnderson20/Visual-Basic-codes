@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.xml
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.xml
+C:\Users\amarm\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.pdb

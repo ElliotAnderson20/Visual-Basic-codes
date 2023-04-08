@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.xml
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.xml
+C:\Users\amarm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

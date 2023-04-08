@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.exe.config
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.exe
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.pdb
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.xml
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.exe
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.xml
+C:\Users\amarm\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.pdb

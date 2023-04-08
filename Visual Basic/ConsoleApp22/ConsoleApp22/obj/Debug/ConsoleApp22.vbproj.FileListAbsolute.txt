@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.xml
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.xml
+C:\Users\amarm\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb

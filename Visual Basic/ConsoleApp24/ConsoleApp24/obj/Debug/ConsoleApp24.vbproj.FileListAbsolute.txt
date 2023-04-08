@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.xml
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.xml
+C:\Users\amarm\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb

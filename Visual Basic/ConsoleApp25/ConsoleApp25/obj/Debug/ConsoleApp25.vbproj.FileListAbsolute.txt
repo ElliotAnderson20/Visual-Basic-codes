@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.xml
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.exe
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.xml
+C:\Users\amarm\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.pdb

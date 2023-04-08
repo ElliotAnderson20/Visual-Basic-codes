@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe.config
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.pdb
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.xml
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.exe
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.xml
+C:\Users\amarm\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.pdb

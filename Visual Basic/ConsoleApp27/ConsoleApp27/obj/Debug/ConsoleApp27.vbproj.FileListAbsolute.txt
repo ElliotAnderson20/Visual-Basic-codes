@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe.config
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.pdb
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.xml
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.xml
+C:\Users\amarm\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.pdb

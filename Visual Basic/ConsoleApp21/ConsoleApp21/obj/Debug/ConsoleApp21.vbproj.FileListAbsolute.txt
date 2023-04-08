@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.xml
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.xml
+C:\Users\amarm\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb

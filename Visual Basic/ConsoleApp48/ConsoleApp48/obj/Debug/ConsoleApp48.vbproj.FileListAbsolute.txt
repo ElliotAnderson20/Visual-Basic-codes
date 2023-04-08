@@ -1,0 +1,12 @@
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.Resources.resources
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\ConsoleApp48.exe.config
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\ConsoleApp48.exe
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\ConsoleApp48.pdb
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\ConsoleApp48.xml
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.exe
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.xml
+C:\Users\amarm\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\ConsoleApp48.pdb
